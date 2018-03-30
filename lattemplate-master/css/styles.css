@@ -1,0 +1,50 @@
+body{
+   padding:40px;
+}
+
+
+#container{
+   border:5px solid dodgerblue;
+   padding:0px;
+}
+
+.cards{
+   height:500px;
+   width:500px;
+   padding-left:350px;
+}
+
+
+.question{
+   width:310px;
+   text-align:center;
+
+}
+.answer{
+   border:1px solid black;
+   width:310px;
+   height:300px;
+   text-align:center;
+   margin:0px;
+   background-color:pink;
+   bottom:-225px;
+   display:none;
+}
+
+h1{
+   color:deeppink;
+   font-size:xx-large;
+   font-weight:bold;
+   text-align:center;
+}
+
+h2{
+   color:black;
+   font-size:large;
+}
+
+h3{
+   color:black;
+   font-size:large;
+}
+
